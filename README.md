@@ -1,6 +1,6 @@
 <img src="src/main/resources/assets/sodium/icon.png" width="128">
 
-# Sodium (for Fabric)
+# Sodium-Vulkan (for Fabric)
 
 ![GitHub license](https://img.shields.io/github/license/CaffeineMC/sodium-fabric.svg)
 ![GitHub issues](https://img.shields.io/github/issues/CaffeineMC/sodium-fabric.svg)
